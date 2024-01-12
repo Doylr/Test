@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Upload Success</name>
+   <tag></tag>
+   <elementGuidId>62818f6e-1ad2-43bd-81b0-69c46d149f9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#upload-label-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h6[@id='upload-label-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>5d2cf269-1384-448d-b3d4-03daaa4f4fbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>turbo</value>
+      <webElementGuid>b56752f6-a601-4f11-95f3-ba2a6a4038e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>upload-label-1</value>
+      <webElementGuid>c32d7456-b50f-4314-acd6-b02674225417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Success!</value>
+      <webElementGuid>16a21433-3688-4c5c-a037-d3fc2159524e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;upload-label-1&quot;)</value>
+      <webElementGuid>c7abda85-f771-4678-992f-3a5aa871f68d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h6[@id='upload-label-1']</value>
+      <webElementGuid>d69e39b9-bd45-4ac0-84a5-283415cfaa8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read Article'])[2]/following::h6[1]</value>
+      <webElementGuid>4f4a7ecb-0825-413b-9d1b-083ca5149362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fullScreen'])[2]/following::h6[1]</value>
+      <webElementGuid>bd454918-02fe-4d3f-aa18-1a36b6643e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Want to share with a friend?'])[1]/preceding::h6[1]</value>
+      <webElementGuid>29d705e6-2535-4051-9e2c-b3700ba7afc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share'])[1]/preceding::h6[1]</value>
+      <webElementGuid>926fc69c-3399-4756-b144-aff6e1e17ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload Success!']/parent::*</value>
+      <webElementGuid>5684e856-27a7-45dd-aa48-72c8438d0df3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6</value>
+      <webElementGuid>c0c83376-4cae-4519-93cb-c7a13b8ef506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[@id = 'upload-label-1' and (text() = 'Upload Success!' or . = 'Upload Success!')]</value>
+      <webElementGuid>89464db1-36a6-4e0c-81ba-cb979fb42ebd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

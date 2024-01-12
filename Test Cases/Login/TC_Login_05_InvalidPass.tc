@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_05_InvalidPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5feb7bf8-3acf-414d-8b25-d6c366510475</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_click here or drop files to upload or t_382b9a</name>
+   <tag></tag>
+   <elementGuidId>073a9574-6fc3-4b36-ab10-d6a5adc59b2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dz-default.dz-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='dropzone']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5db87552-a682-4a68-b1a0-85ea970cde29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dz-default dz-message</value>
+      <webElementGuid>0a9a7b44-c5e4-46ec-a156-592c0b46cb42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>click here or drop files to upload or transfer(Max 50 files, 10 GB per file, total 50 GB)</value>
+      <webElementGuid>cd9d5731-43b0-4cc5-ab54-cbef53dbb2e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropzone&quot;)/div[@class=&quot;dz-default dz-message&quot;]</value>
+      <webElementGuid>9b3c5683-e451-4246-9628-8a86550efbcc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='dropzone']/div[2]</value>
+      <webElementGuid>4ce283e8-7494-4f7b-851a-1d160b2ca9d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Speed'])[1]/following::div[1]</value>
+      <webElementGuid>4fb56790-a99d-4f49-99da-2f0afe84ba23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Progress'])[1]/following::div[2]</value>
+      <webElementGuid>936179c6-1e41-45a3-99aa-dbec257a6b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]</value>
+      <webElementGuid>580feaec-666d-4f7d-afc5-a163bfde536c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'click here or drop files to upload or transfer(Max 50 files, 10 GB per file, total 50 GB)' or . = 'click here or drop files to upload or transfer(Max 50 files, 10 GB per file, total 50 GB)')]</value>
+      <webElementGuid>a8186d3d-affd-4b2e-8395-42498f7988a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

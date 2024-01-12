@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_03_NullPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5e2928a-5217-435a-8f55-98aa58d43dcd</testCaseGuid>
+</TestCaseEntity>
